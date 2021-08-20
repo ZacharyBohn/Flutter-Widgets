@@ -1,4 +1,4 @@
-# Flutter-Widgets
+# Reusable Flutter Widgets
 A repo of commonly usable flutter widgets.
 
 ### A list of widgets that this repo currently contains:
